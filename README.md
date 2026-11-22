@@ -1,4 +1,4 @@
-#House Price Prediction
+House Price Prediction
 
 An end-to-end Machine Learning project that predicts residential property prices using the Ames Housing dataset.
 
