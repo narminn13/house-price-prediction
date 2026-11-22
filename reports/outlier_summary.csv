@@ -1,0 +1,6 @@
+Feature,Lower Bound,Upper Bound,Outlier Count
+SalePrice,3937.5,340037.5,61
+GrLivArea,158.625,2747.625,31
+OverallQual,2.0,10.0,2
+TotalBsmtSF,42.0,2052.0,61
+GarageArea,-27.75,938.25,21

@@ -1,0 +1,12 @@
+Feature,Description
+TotalSF,Total basement and above-ground living area
+TotalBathrooms,Total bathrooms including half bathrooms
+TotalPorchSF,Total porch area
+TotalOutdoorSF,Total porch and deck area
+TotalBsmtFinSF,Total finished basement area
+HouseAge,House age at sale
+RemodAge,Years since remodeling at sale
+GarageAge,Garage age at sale
+HasGarage,Whether the house has a garage
+HasBasement,Whether the house has a basement
+IsRemodeled,Whether the house was remodeled

@@ -1,0 +1,9 @@
+{
+    "MAE": 15153.259749875391,
+    "RMSE": 25689.4011998117,
+    "R2": 0.9139612428234779,
+    "training_samples": 1168,
+    "validation_samples": 292,
+    "validation_size": 0.2,
+    "random_state": 42
+}
